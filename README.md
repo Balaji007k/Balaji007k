@@ -15,4 +15,4 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Balaji007k&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/f1eqBTCiGo?theme=dark&font=B612%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/BalajiProgrammer?theme=dark&font=B612%20Mono&ext=heatmap)
