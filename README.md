@@ -4,7 +4,7 @@
 
 - 🔭 Here's my [portfolio](https://balaji007k.github.io/Balaji_fullstack_Portfolio/)
 
-- 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
+- 🌱 I’m currently learning DSA and Integrating AI to my workflow
 
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/balaji-k-596057297) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/___balaji.k_007__)
